@@ -1,0 +1,19 @@
+{
+  "name": "単語タイムスタンプ",
+  "short_name": "タイムスタンプ",
+  "description": "動画の単語切り替わり時刻を手動で記録し、JSONで出力するPWA",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6fa",
+  "theme_color": "#172554",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
